@@ -1,0 +1,24 @@
+# .NET build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+logs/
+*.log
+
+# Secrets and environment files
+.env
+appsettings.json
+appsettings.Development.json
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
