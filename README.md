@@ -5,28 +5,28 @@ Built with modern technologies, it provides a robust and scalable solution for h
 
 ## Features
 
-# Authentication & Authorization:
+## Authentication & Authorization:
 Role-based access control (Admin, Manager, Doctor, Staff).
 JWT-based authentication with cookie support.
 
-# Appointment Management:
+## Appointment Management:
 Create, update, delete, and view appointments.
 Validation for appointment dates, patient/doctor IDs, and examination IDs.
 
-# Patient & Doctor Management:
+## Patient & Doctor Management:
 Manage patient and doctor records.
 
-# Examination Management:
+## Examination Management:
 Upload and manage examination results (PDFs).
 Track examination statuses and types.
 
-# Medical Records:
+## Medical Records:
 Link medical records to patients and appointments.
 
-# Responsive Frontend:
+## Responsive Frontend:
 Built with React and Material-UI for a modern and user-friendly interface.
 
-# API Documentation:
+## API Documentation:
 Swagger UI for testing and exploring APIs.
 
 # Database:
@@ -36,35 +36,35 @@ SQL Server for secure and efficient data storage.
 
 # Frontend
 
-# React: 
+## React: 
 For building the user interface.
 
-# Vite: 
+## Vite: 
 A fast development build tool.
 
-# Material-UI: 
+## Material-UI: 
 For responsive and modern UI components.
 
-# React Router: 
+## React Router: 
 For routing and navigation.
 
 ## Backend
 
-# .NET 8: 
+## .NET 8: 
 For building a scalable and high-performance API.
 
-# Entity Framework Core: 
+## Entity Framework Core: 
 For database interactions.
 
-# ASP.NET Identity: 
+## ASP.NET Identity: 
 For user authentication and role management.
 
-# Swagger: 
+## Swagger: 
 For API documentation.
 
-## Database
+# Database
 
-# SQL Server: 
+## SQL Server: 
 For relational data storage.
 
 ## Getting Started
