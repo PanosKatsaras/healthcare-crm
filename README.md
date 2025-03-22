@@ -17,7 +17,7 @@
 
 # HealthCRM - Healthcare Management System
 
-HealthCRM is a full-stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
+HealthCRM is a Full-Stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
 Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
 
 The system includes role-based access control (RBAC), ensuring that users—such as administrators, doctors, managers, and staff—have access only to the data and features relevant to their roles. 
@@ -92,14 +92,21 @@ For relational data storage.
 # Prerequisites
 
 Node.js: v18 or later.
+
 .NET SDK: v8.0 or later.
+
 SQL Server: Installed and running.
 
 # Environment Variables:
 
 DB_CONNECTION_STRING: Connection string for SQL Server.
+
 JWT_SECRET_KEY: Secret key for JWT authentication.
+
 JWT_ISSUER: JWT issuer.
+
 JWT_AUDIENCE: JWT audience.
+
 ADMIN_EMAIL: Default admin email.
+
 ADMIN_PASSWORD: Default admin password.
