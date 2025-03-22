@@ -3,11 +3,13 @@
 ![Screenshot (health-crm-image2)](https://github.com/user-attachments/assets/da683349-254c-495d-b4a3-44f8ada1e62b)
 
 
-# HealthCRM - Healthcare 
-Management System
+# HealthCRM - Healthcare Management System
 
 HealthCRM is a full-stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
 Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
+
+The system includes role-based access control (RBAC), ensuring that users—such as administrators, doctors, managers, and staff—have access only to the data and features relevant to their roles. 
+This enhances security, privacy, and authorization, allowing for efficient and compliant healthcare management.
 
 ## Features
 
