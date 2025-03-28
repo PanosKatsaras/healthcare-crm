@@ -53,10 +53,10 @@ Built with React and Material-UI for a modern and user-friendly interface.
 ## API Documentation:
 Swagger UI for testing and exploring APIs.
 
-# Database:
-SQL Server for secure and efficient data storage.
+
 
 ## Technologies Used
+
 
 # Frontend
 
@@ -89,7 +89,7 @@ For API documentation.
 # Database
 
 ## SQL Server: 
-For relational data storage.
+SQL Server for secure and efficient data storage.
 
 ## Getting Started
 
