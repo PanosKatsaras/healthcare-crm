@@ -55,7 +55,9 @@ Swagger UI for testing and exploring APIs.
 
 
 
+
 ## Technologies Used
+
 
 
 # Frontend
@@ -72,7 +74,8 @@ For responsive and modern UI components.
 ## React Router: 
 For routing and navigation.
 
-## Backend
+
+# Backend
 
 ## .NET 8: 
 For building a scalable and high-performance API.
@@ -86,10 +89,12 @@ For user authentication and role management.
 ## Swagger: 
 For API documentation.
 
+
 # Database
 
 ## SQL Server: 
 SQL Server for secure and efficient data storage.
+
 
 ## Getting Started
 
