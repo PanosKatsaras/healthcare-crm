@@ -1,4 +1,4 @@
-# HealthCRM - Healthcare Management System
+# Healthcare CRM - Healthcare Management System
 
 HealthCRM is a Full-Stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
 Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
