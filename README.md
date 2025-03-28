@@ -1,3 +1,12 @@
+# HealthCRM - Healthcare Management System
+
+HealthCRM is a Full-Stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
+Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
+
+The system includes role-based access control (RBAC), ensuring that users—such as administrators, doctors, managers, and staff—have access only to the data and features relevant to their roles. 
+This enhances security, privacy, and authorization, allowing for efficient and compliant healthcare management.
+
+
 ![Screenshot (health-crm-image1)](https://github.com/user-attachments/assets/d5d38786-65c1-43fc-b230-7cd20a66b10b)
 
 ![Screenshot (health-crm-image2)](https://github.com/user-attachments/assets/da683349-254c-495d-b4a3-44f8ada1e62b)
@@ -15,22 +24,16 @@
 ![Screenshot (health-crm-image8)](https://github.com/user-attachments/assets/33af6f88-44ee-43c6-b745-00bee0996884)
 
 
-# HealthCRM - Healthcare Management System
-
-HealthCRM is a Full-Stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
-Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
-
-The system includes role-based access control (RBAC), ensuring that users—such as administrators, doctors, managers, and staff—have access only to the data and features relevant to their roles. 
-This enhances security, privacy, and authorization, allowing for efficient and compliant healthcare management.
-
 ## Features
 
 ## Authentication & Authorization:
 Role-based access control (Admin, Manager, Doctor, Staff).
+
 JWT-based authentication with cookie support.
 
 ## Appointment Management:
 Create, update, delete, and view appointments.
+
 Validation for appointment dates, patient/doctor IDs, and examination IDs.
 
 ## Patient & Doctor Management:
@@ -38,6 +41,7 @@ Manage patient and doctor records.
 
 ## Examination Management:
 Upload and manage examination results (PDFs).
+
 Track examination statuses and types.
 
 ## Medical Records:
