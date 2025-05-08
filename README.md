@@ -1,10 +1,8 @@
 # Health CRM - Healthcare Management System
 
-Health CRM is a Full-Stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. 
-Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
+Health CRM is a Full-Stack healthcare management system designed to streamline the management of appointments, patients, doctors, medical records, and examinations. A key feature allows authorized users to upload PDF files containing examination results directly to the system. The application provides clear indicators if a result PDF is already available for a patient, offering a simple download option for authorized users to access the file. Built with modern technologies, it provides a robust and scalable solution for healthcare organizations.
 
-The system includes role-based access control (RBAC), ensuring that users—such as administrators, doctors, managers, and staff—have access only to the data and features relevant to their roles. 
-This enhances security, privacy, and authorization, allowing for efficient and compliant healthcare management.
+The system includes role-based access control (RBAC), ensuring that users—such as administrators, doctors, managers, and staff—have access only to the data and features relevant to their roles. This control governs both the uploading and downloading of PDF results, guaranteeing that only permitted roles can manage and access this sensitive information. This enhances security, privacy, and authorization, allowing for efficient and compliant healthcare management.
 
 
 ![Screenshot (health-crm-image1)](https://github.com/user-attachments/assets/d5d38786-65c1-43fc-b230-7cd20a66b10b)
